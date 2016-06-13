@@ -1,4 +1,4 @@
-# Recordroid: Platform part
+# Recordroid: Platform Part
 Recordroid is a response-aware replaying tool for Android.
 
 The source code of Recordroid is composed of platform part and controller part.
