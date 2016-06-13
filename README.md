@@ -7,14 +7,14 @@ Please refer to [here](http://github.com/RedCarrottt/recordroid-controller) for 
 
 # How to Build
 1. Download whole source code of AOSP(In this case, download AOSP 4.4.2-r2).
-  * [Refer here](https://source.android.com/source/downloading.html)
+  * [Refer to here](https://source.android.com/source/downloading.html)
 1. Backup framework/base in AOSP to another place.
   1. $ mv ${AOSP_PATH}/framework/base base-backup
 1. Download source code of Recordroid platform part and replace the framework/base with it.
   1. $ git clone https://github.com/RedCarrottt/recordroid
   1. $ mv recordroid ${AOSP_PATH}/framework/base
 1. Build the AOSP with the Recordroid-customized framework code.
-  * [Refer here](https://source.android.com/source/building.html)
+  * [Refer to here](https://source.android.com/source/building.html)
   
 # How to Use
 In order to record and replay workload on the device, you have to use [Recordroid Controller](http://github.com/RedCarrottt/recordroid-controller) on your Host PC which have USB connection with target Android device.
