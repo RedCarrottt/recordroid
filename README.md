@@ -2,8 +2,8 @@
 Recordroid is a response-aware replaying tool for Android.
 
 The source code of Recordroid is composed of platform part and controller part.
-
-Please refer to [here](http://github.com/RedCarrottt/recordroid-controller) for accessing other parts.
+* Platform Part: This repository
+* Controller Part: http://github.com/RedCarrottt/recordroid-controller
 
 # How to Build
 1. Download whole source code of AOSP(In this case, download AOSP 4.4.2-r2).
